@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Grace & Glory Church</title>
+    <title>Divine Church Worldwide</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1103,7 +1103,7 @@
 
         <a href="#home" class="logo">
             <span class="cross-logo">✝</span>
-            Grace & Glory
+            Divine Church Worldwide
         </a>
 
         <div class="nav-links" id="navLinks">
@@ -1206,7 +1206,7 @@
                 </div>
 
                 <p>
-                    Grace & Glory Church is a vibrant community of people
+                    Divine Church Worldwide is a vibrant community of people
                     from every walk of life. We believe church should be
                     a place where you can belong, grow, serve and discover
                     God's purpose for your life.
@@ -1411,7 +1411,7 @@
         <h2>Lives are being changed.</h2>
 
         <p>
-            Hear from some of the people who call Grace & Glory home.
+            Hear from some of the people who call DCW home.
         </p>
 
     </div>
@@ -1523,7 +1523,7 @@
         <h2>Come grow with us.</h2>
 
         <p>
-            There is always something happening at Grace & Glory.
+            There is always something happening at DCW.
         </p>
 
     </div>
@@ -1756,7 +1756,7 @@
 
             <div class="logo" style="color:white;margin-bottom:18px;">
                 <span class="cross-logo">✝</span>
-                Grace & Glory
+                Divine Church Worldwide
             </div>
 
             <p>
@@ -1802,7 +1802,7 @@
             <h3>Visit Us</h3>
 
             <p>
-                123 Grace Avenue<br>
+                123 Church Avenue<br>
                 Hope City, USA
             </p>
 
@@ -1816,7 +1816,7 @@
     </div>
 
     <div class="copyright">
-        © 2026 Grace & Glory Church. All Rights Reserved.
+        © 2026 Divine Church Worldwide. All Rights Reserved.
     </div>
 
 </footer>
@@ -1841,7 +1841,7 @@
         <h2>Welcome Back</h2>
 
         <p>
-            Sign in to your Grace & Glory account.
+            Sign in to your DCW account.
         </p>
 
         <input
