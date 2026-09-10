@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Divine Church Worldwide</title>
+    <title>DivineTrinity Church Worldwide</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1103,7 +1103,7 @@
 
         <a href="#home" class="logo">
             <span class="cross-logo">✝</span>
-            Divine Church Worldwide
+            DivineTrinity Church Worldwide
         </a>
 
         <div class="nav-links" id="navLinks">
@@ -1206,7 +1206,7 @@
                 </div>
 
                 <p>
-                    Divine Church Worldwide is a vibrant community of people
+                    DivineTrinity Church Worldwide is a vibrant community of people
                     from every walk of life. We believe church should be
                     a place where you can belong, grow, serve and discover
                     God's purpose for your life.
@@ -1756,7 +1756,7 @@
 
             <div class="logo" style="color:white;margin-bottom:18px;">
                 <span class="cross-logo">✝</span>
-                Divine Church Worldwide
+                 DivineTrinity Church Worldwide
             </div>
 
             <p>
@@ -1816,7 +1816,7 @@
     </div>
 
     <div class="copyright">
-        © 2026 Divine Church Worldwide. All Rights Reserved.
+        © 2026 DivineTrinity Church Worldwide. All Rights Reserved.
     </div>
 
 </footer>
